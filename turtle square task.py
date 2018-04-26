@@ -6,7 +6,5 @@ Type "copyright", "credits" or "license()" for more information.
 >>> cailou.left(90)
 >>> cailou.forward(100);franklin.forward(100)
 >>> cailou.right(90);franklin.left(90)
->>>  cailou.forward(100);franklin.forward(100)
-SyntaxError: unexpected indent
 >>> cailou.forward(100);franklin.forward(100)
 >>> 
